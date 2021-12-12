@@ -1,0 +1,97 @@
+{
+    "example_1": {
+        "1.0@2.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 2.0,
+            "phase": 0.0
+        },
+        "1.0@6.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 6.0,
+            "phase": 0.0
+        }
+    },
+    "example_2": {
+        "1.0@3.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 3.0,
+            "phase": 0.0
+        },
+        "1.0@6.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 6.0,
+            "phase": 0.0
+        }
+    },
+    "example_3": {
+        "1.0@2.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 2.0,
+            "phase": 0.0
+        },
+        "1.0@6.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 6.0,
+            "phase": 0.0
+        },
+        "1.0@5.0 HZ + 0.0": {
+            "amplitude": 1.0,
+            "frequency": 5.0,
+            "phase": 0.0
+        },
+        "4.0@10.0 HZ + 0.0": {
+            "amplitude": 4.0,
+            "frequency": 10.0,
+            "phase": 0.0
+        },
+        "3.0@5.0 HZ + 0.0": {
+            "amplitude": 3.0,
+            "frequency": 5.0,
+            "phase": 0.0
+        },
+        "10.0@6.0 HZ + 0.0": {
+            "amplitude": 10.0,
+            "frequency": 6.0,
+            "phase": 0.0
+        }
+    },
+    "example_4": {
+        "2.0@6.0 HZ + 1.0": {
+            "amplitude": 2.0,
+            "frequency": 6.0,
+            "phase": 1.0
+        },
+        "0.5@3.0 HZ + 1.0": {
+            "amplitude": 0.5,
+            "frequency": 3.0,
+            "phase": 1.0
+        },
+        "1.5@8.0 HZ + 1.0": {
+            "amplitude": 1.5,
+            "frequency": 8.0,
+            "phase": 1.0
+        }
+    },
+    "example_5": {
+        "1.0@3.0 HZ + 1.0": {
+            "amplitude": 1.0,
+            "frequency": 3.0,
+            "phase": 1.0
+        },
+        "1.0@7.0 HZ + 1.0": {
+            "amplitude": 1.0,
+            "frequency": 7.0,
+            "phase": 1.0
+        },
+        "0.5@7.0 HZ + 1.0": {
+            "amplitude": 0.5,
+            "frequency": 7.0,
+            "phase": 1.0
+        },
+        "0.5@20.0 HZ + 1.0": {
+            "amplitude": 0.5,
+            "frequency": 20.0,
+            "phase": 1.0
+        }
+    }
+}
