@@ -1,8 +1,8 @@
 # Signal Reconstruction
 - [Features](#features)
 - [Demos](#demos)
-    -[Reconstruction Demo](#reconstruction-demo)
-    -[Composer Demo](#composer-demo)
+    - [Reconstruction Demo](#reconstruction-demo)
+    - [Composer Demo](#composer-demo)
 
 
 ## Features
