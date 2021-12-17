@@ -8,8 +8,8 @@
 ## Features
 - Signal synthizer from sinusoidals
 - Signal reconstruction with different sampling rate (0-3) fmax
-- Reconstruction for both synthized signals or loaded one from files (csv only)
-- Preloaded Examples for synthized signals
+- Reconstruction for both synthesized signals or loaded one from files (csv only)
+- Preloaded Examples for synthesized signals
 - Adding new examples to the preloaded
 
 ## Demos
